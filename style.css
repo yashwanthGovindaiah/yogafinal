@@ -11571,7 +11571,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .about-three__image__one img {
     max-width: 100%;
     height: auto;
-    border-radius: 50%
+    /*border-radius: 50%*/
 }
 
 .about-three__image__one-left {
